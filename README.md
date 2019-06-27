@@ -17,3 +17,17 @@ EM: expectation maximisation
 
 
 one np-complete problem is the estimation of the amount of needed clusters
+
+------------------------
+
+# unsupervised learning
+
+- pca
+- k-means
+
+# supervised learning
+
+- (classification) Label for Information: rot oder blau fuer Katze oder Hund
+- https://de.wikipedia.org/wiki/%C3%9Cberwachtes_Lernen
+- https://en.wikipedia.org/wiki/Supervised_learning
+- https://datascience.stackexchange.com/questions/9573/supervised-learning-and-labels
