@@ -58,4 +58,14 @@ to read for myself:
 
 -------------------------
 
-- exmaple in Python:
+# exmaple in Python:
+
+- install: https://www.python.org/downloads/
+- P 3.7; add python to path; 
+
+# good hints for reading (in this order): - not that they really have to be bought from the big A
+- Pedro domingos - the master algorithm - kaufen und lesen; umgangssprachlich verständlich: https://www.amazon.de/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708
+- hands on machine learning aurelie geron - https://www.amazon.de/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
+- deep learning - yoshua goodfellow: https://www.amazon.de/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618
+
+good coursera course: Andrew Ng: https://de.coursera.org/learn/machine-learning - also the founder of coursera
