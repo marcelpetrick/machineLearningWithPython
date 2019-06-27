@@ -14,3 +14,6 @@ k-means (clusterierung) and PCA - almost everything you will need
 nachteil/problem: man muss vorher die gruppenanzahl angeben
 
 EM: expectation maximisation
+
+
+one np-complete problem is the estimation of the amount of needed clusters
