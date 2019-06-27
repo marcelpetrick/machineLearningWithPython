@@ -69,3 +69,40 @@ to read for myself:
 - deep learning - yoshua goodfellow: https://www.amazon.de/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618
 
 good coursera course: Andrew Ng: https://de.coursera.org/learn/machine-learning - also the founder of coursera
+
+
+pip install --upgrade -user scipy numpy scklearn
+
+IRIS data set: classify flowers
+
+(lol: https://images.app.goo.gl/SdDZCh7gEP3JHLUw7 )
+
+- jupyter notebooks
+
+pip install --user jupyter
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook - how to create and run the very first notebook
+(install this and create a notebook ..)
+
+IDEs: Keras / TensorFlow / PyTorch
+
+--> ? maybe this ?
+https://medium.com/syncedreview/andrew-ng-says-enough-papers-lets-build-ai-now-6b52d24bcd58
+
+
+ https://medium.com/syncedreview/andrew-ng-says-enough-papers-lets-build-ai-now-6b52d24bcd58
+ introduction for the reinforcement learning: https://hci.iwr.uni-heidelberg.de/system/files/private/downloads/541645681/dammann_reinfocement-learning-report.pdf
+ 
+ 
+training set/test set
+features/feature engineering
+overfitting bias
+
+**mail for the guy:** 
+Pouyan.Mohajerani@gmail.com
+--> send something later
+
+MACHINE LEARNING YEARNING - 118 pages Andrew Ng - very easy to udnerstand; but it looks like thereis no printed version:
+https://towardsdatascience.com/6-concepts-of-andrew-ngs-book-machine-learning-yearning-abaf510579d4
+
+
+
