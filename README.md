@@ -103,6 +103,6 @@ Pouyan.Mohajerani@gmail.com
 
 MACHINE LEARNING YEARNING - 118 pages Andrew Ng - very easy to udnerstand; but it looks like thereis no printed version:
 https://towardsdatascience.com/6-concepts-of-andrew-ngs-book-machine-learning-yearning-abaf510579d4
-
+Andrew NG - Machine learning yearning: bookform (just pdf): https://github.com/ajaymache/machine-learning-yearning or as chapters on github https://github.com/ajaymache/machine-learning-yearning
 
 
