@@ -131,5 +131,21 @@ TODO: check underfitting
 - feature engineering war hauptmethode bis man CNN (convolutional neuro networks) hatte
 - wie verwendet man aber expert knowledege (siehe Iris-Datenbank)?
 
-Python notebook: IRIS.ipynb
+Beispiel: Python notebook: IRIS.ipynb
+
+-- einfach ein neues erzeugen; von cmd aus; mit perfektem PATH
+$ jupyter notebook (ENTER)
+dann: http://localhost:8888/tree
+dann das notebook laden
+(Jupyter: app dev in browser :))
+
+do: menue: Kernel >> Restart&clear output 
+(hints lead to https://www.kaggle.com/skalskip/iris-data-visualization-and-knn-classification )
+
+- dies ist eine volle KI-app
+- Anfang: load some libs
+- mit CTRL+ENTER Zelle evaluieren
+- was ist numpy? Lineare Algebra
+
+
 
