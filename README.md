@@ -4,6 +4,8 @@ notes and snippets from the VHS-course for machine learning with Python
 [todo: add the notes taken with pen&paper]
 [todo: translate all the german words/phrases]
 
+# day1: ML-course (20190627)
+
 pca:
 https://en.wikipedia.org/wiki/Kernel_principal_component_analysis
 
@@ -104,5 +106,25 @@ Pouyan.Mohajerani@gmail.com
 MACHINE LEARNING YEARNING - 118 pages Andrew Ng - very easy to udnerstand; but it looks like thereis no printed version:
 https://towardsdatascience.com/6-concepts-of-andrew-ngs-book-machine-learning-yearning-abaf510579d4
 Andrew NG - Machine learning yearning: bookform (just pdf): https://github.com/ajaymache/machine-learning-yearning or as chapters on github https://github.com/ajaymache/machine-learning-yearning
+
+# ----------------------------------------------------------
+# Second day of ML-course (20190704)
+
+- account for nvidio for cudnn (cudo) - 2 GiByte thingy
+- folder namend "ML" was prepared by the guy
+
+### what is overfitting?
+resultat passt nur rein zufällig (?); testdaten passen, reale nicht
+
+### ist underfitting oposite to overfitting
+test- und realdaten passen nicht
+
+wir: hautpsächlich supervised learning (curved fitting)
+- versuch mit ax^2+bx+c auf 4 datenpunkte: immer underfitting
+ 
+ - warum gerade 4er gerade bei sinx(x) overfitting: trifft genau die testdaten
+ 
+TODO: check overfitting
+TODO: check underfitting
 
 
