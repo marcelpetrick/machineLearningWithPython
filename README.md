@@ -166,3 +166,46 @@ do: menue: Kernel >> Restart&clear output
 - LabelEncoder: transofrmiert Versicolor, Virginica to 0, 1, 2 ..
 
 - die ausgabe der letzten zeile wird in den zellen des jupyter-nb gezeigt
+- was habenn wir? 150 daten: 4 features: und ein label
+
+- wir wollen fuer diesen datensatz fuer ein neues test-datum dann wissen, welche blumenart dies ist
+- warum als 0,1,2,3 gelabelt und nicht 0,1,2,7? plotten einfacher
+- aber falls man ein curve-fitting will, dann wäre es besser wenn sie gleichabständig sind
+- darunter steckt aber cost-function: wie schlecht ist ein fehler?
+
+- found myself: 5 cent per hour?
+https://aws.amazon.com/marketplace/pp/B06Y6BNHD3
+krasser shit: https://aws.amazon.com/marketplace/pp/B07MFRDXTB?qid=1562259741087&sr=0-1&ref_=srh_res_product_title  ... von fast kostenlos bis 3$/h umgebungen
+- wie macht man auswahl der testdaten? random 80% von Klasse 0, 50% von Klasse 0, ... und fügt sie dann zusammen
+- 10 krekbspatientetn und 1000 ohne patienten: 8/800 training, 2/200 für test
+- wird sich besser an gesunde anpassen
+--> class imbalance (todo check)
+
+stratification: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+--> schichten bilden
+
+subplot: tabellnähnlicher plot
+- die drei farben sind die verschiedenen Iris-klassen
+- second feature plotted against first feature
+- plot: 1 versus 4; fast alle roten sind rechts, alle grünen sind mitte, blau sind rechts
+- oder plot 4 versus 3: auch ein paar fehler, aber viel weniger
+- ein learner sucht sich solche "gut trennbaren" geegenden im gesamten space so dass die geringste anzahl an fehlern auftauchtkurs@B112PC12 MINGW64 ~/Desktop/mpe/ml_course (master)
+
+#################################
+# state of the installed files: #
+#################################
+$ ls -lah
+total 136K
+drwxr-xr-x 1 kurs 197121    0 Jul  4 19:09 ./
+drwxr-xr-x 1 kurs 197121    0 Jul  4 17:51 ../
+drwxr-xr-x 1 kurs 197121    0 Jul  4 19:11 .git/
+drwxr-xr-x 1 kurs 197121    0 Jul  4 18:26 .ipynb_checkpoints/
+-rw-r--r-- 1 kurs 197121  987 Jul  3 17:56 Anleitung_Pouyan.txt
+-rw-r--r-- 1 kurs 197121 3,9K Feb  5  2014 iris.csv
+-rw-r--r-- 1 kurs 197121  70K Jul  4 19:04 IRIS.ipynb
+-rw-r--r-- 1 kurs 197121  35K Jul  4 17:51 LICENSE
+-rw-r--r-- 1 kurs 197121 8,8K Jul  4 19:09 README.md
+
+
+
+
