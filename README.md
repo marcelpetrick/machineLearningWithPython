@@ -191,21 +191,31 @@ subplot: tabellnähnlicher plot
 - oder plot 4 versus 3: auch ein paar fehler, aber viel weniger
 - ein learner sucht sich solche "gut trennbaren" geegenden im gesamten space so dass die geringste anzahl an fehlern auftauchtkurs@B112PC12 MINGW64 ~/Desktop/mpe/ml_course (master)
 
-#################################
-# state of the installed files: #
-#################################
-$ ls -lah
-total 136K
-drwxr-xr-x 1 kurs 197121    0 Jul  4 19:09 ./
-drwxr-xr-x 1 kurs 197121    0 Jul  4 17:51 ../
-drwxr-xr-x 1 kurs 197121    0 Jul  4 19:11 .git/
-drwxr-xr-x 1 kurs 197121    0 Jul  4 18:26 .ipynb_checkpoints/
--rw-r--r-- 1 kurs 197121  987 Jul  3 17:56 Anleitung_Pouyan.txt
--rw-r--r-- 1 kurs 197121 3,9K Feb  5  2014 iris.csv
--rw-r--r-- 1 kurs 197121  70K Jul  4 19:04 IRIS.ipynb
--rw-r--r-- 1 kurs 197121  35K Jul  4 17:51 LICENSE
--rw-r--r-- 1 kurs 197121 8,8K Jul  4 19:09 README.md
+- Voraussage angeben: y_pred = classifier.predict(X_test[:,[0,1,3]])
+- 3NN angewendet
+- classifier prediction: fast 97% genauigkeit accurarcy über test-set
+- falls man die nachbarn auf 50 nachbarn packt, kommt man auf accuracy of 80% ... ist schlechter
+- bei 100-nn nur 70%
+- welche features man wählt, ist extrem wichtig: 4 features
+- aber mit zwei features ist man schon ausreichend gut bedient
+--> erinnert an PCA (dimensionality reduction)
 
+(wichtige) Frage: wie wählt man jetzt dieses K?
+- da sModel hat innere und auessere parameter
+- hyper-parameters passt man mit fit gut (automatisch) an:
+https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
 
+- essen heute abend: das menü ist der hype-parameter; muss vorher festgelegt werden
+- hyperparameter: ist die wahl vom essen
+- parameter: wieviel von was - davon abhängig
 
+- hyperparameter-wahl kann auch schon overfitting bedeuten
+- aus trainignsdatensatz kann man auch einen teil herausnehmen: validation (dritte menge)
+- validation-parameter-set um hyperparameter anpassen
 
+- artikel auf linkedin: als weitere erläuterung
+- hyperparameter wählen: welches modell, ..
+
+- (lookup): cross validation
+- erst 1,2 als validation und ret test; dann 9,10 als valid vorheriger teil test: durchschnitt dieser ganzen validations ist dann ergebnis für k -> cross validation
+- 20% splits --> 5 fold validation
