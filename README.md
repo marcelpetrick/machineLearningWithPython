@@ -285,4 +285,34 @@ stuff for my own homelearning / certificates:
 
 - https://machinelearningmastery.com/inspirational-applications-deep-learning/
 
-neues praxisbeispiel:
+## neues praxisbeispiel: Standard (Fully Connected) Neural Network
+--> FCNN_MNIST_light.ipynb
+
+MNIST dataset --> hangeschriebene Ziffern
+(knn - scikit)
+(KEras for fully connected neural network; for tensorflow) - Keras vereinfacht das Leben
+- Rest des Kurses nur noch Keras
+
+60k bilder: ein bild hat 28x28 pixel
+0..255 for luminance
+
+one hot encoding? https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f
+
+bild mit 28x28 pixel
+-> 768 werte im bild (jedes pixel ein feature)
+-> linearisiert: vektor von 768 werten -> diese werden dann 768 input nodes
+-> dann zwischen-schichten --> das ist wahl der hyperparamter
+-> alles mit allem verbunden
+-> am ende 10 nodes in einer schicht (wieder sichtbare schicht)
+- wenn mehr als eine versteckte schicht --> "deep"
+- wenn zuviele schichten, dann overfitting; also zentrale frage: wie traininert man dies jetzt?
+
+- 784 -> 400, 200, 10 -> diese schichten (?)
+- read: https://ml-cheatsheet.readthedocs.io/en/latest/layers.html
+- softmax layer
+- in notebook: "Training The Model" ist dann wirklich das training des modells, das eigentliche ML
+- in notebook: "Testing the Model" ist dann vergleich der vorhersagen mit dem model
+
+- accuracy von 92% am ende ...
+
+- mit 30 epochs dann 96% genauigkeit
