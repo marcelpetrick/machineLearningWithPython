@@ -127,4 +127,9 @@ wir: hautpsächlich supervised learning (curved fitting)
 TODO: check overfitting
 TODO: check underfitting
 
+- ML braucht Expertenwissen: mit diesem expert knowledge erzeugt man feautres -> feature engineering
+- feature engineering war hauptmethode bis man CNN (convolutional neuro networks) hatte
+- wie verwendet man aber expert knowledege (siehe Iris-Datenbank)?
+
+Python notebook: IRIS.ipynb
 
