@@ -1,0 +1,19 @@
+These instructions are for windows 10.
+First install python-3.6.8-amd64.exe. Be sure to check the Path change message in the beginning and also click on removing the path restriction at the end of installation. 
+
+Then install CUDA. Use the standard setting. 
+
+Then unzip the CUDNN ZIP file and copy paste into the CUDA folder (copy from root to root). 
+
+Next, make sure the CUDA bin foler (C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin) is in the PATH (environment variables). 
+ALSO MAKE SURE THE PYTHON PATH IS THERE AND IS CORRECT! Sometimes there can be a mix up between Roaming and Local
+
+Next, type CMD in the windows start, and right click on it and run as administrator. 
+
+When the command line opens, update pip by:
+
+python -m pip install --upgrade pip
+
+Then: pip install --upgrade --user numpy scipy pandas matplotlib sklearn jupyter tensorflow-gpu keras
+
+If your computer doesn't have an NVIDIA GPU, run tensorflow (instead of tensorflow-gpu). 
