@@ -219,3 +219,38 @@ https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
 - (lookup): cross validation
 - erst 1,2 als validation und ret test; dann 9,10 als valid vorheriger teil test: durchschnitt dieser ganzen validations ist dann ergebnis für k -> cross validation
 - 20% splits --> 5 fold validation
+- looks like nvidia gpu is best: but quick search found some converter https://stackoverflow.com/questions/10043974/how-to-run-my-cuda-application-on-ati-or-intel-card-in-software-mode
+
+NEUES PROJEKT:
+- ramon cachal: zellen für bilderkennung; spanischer neurowissenschaftler
+- erster mit vorschlag, dass gehirn nettzwerk von neuronen ist - kein festes objekt
+https://neuroscientificallychallenged.com/blog/history-of-neuroscience-ramon-y-cajal
+learn: https://www.coursera.org/learn/synapses ? 
+
+- grundlegendes problem: kurve zu punkten anpassen
+bertrand russel: turkey problem - humes problem of induction
+alle leute, die ich kenne und die gestorben sind, waren nicht ich -> ich werde nicht sterben
+
+- wissen über die welt in model einbauen: (lookup) Regularisation --> https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+
+- no free lunch!
+- daten, annahmen, 
+- which GPU for deep learning?
+https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/ - looks like a good in depth check
+
+generic programming
+
+dendrite, axon, synapse - collect and integrate signals and forward that
+- if the signal is bigh enough to be higher than a threshold, then the neuron fires
+- looks like a really good comparison: https://towardsdatascience.com/deep-learning-versus-biological-neurons-floating-point-numbers-spikes-and-neurotransmitters-6eebfa3390e9
+
+i do kaggle? https://www.kaggle.com/
+
+https://www.kaggle.com/cdeotte/supervised-generative-dog-net
+
+- aktivierungsfunktion
+- mit 13 parametern kann man eine sehr vielgefaltete kurve erzeugen - nicht nur eine gerade (wie mit 3 punkten)
+
+- entscheidung treffen als CEO einer firma: preis eines produktes steigern
+-- mit leuten reden: marketing, finanzen, .... diese selbst lesen auch ihre "werte" vom "markt/nutzerbasis"
+
