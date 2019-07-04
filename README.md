@@ -253,4 +253,36 @@ https://www.kaggle.com/cdeotte/supervised-generative-dog-net
 
 - entscheidung treffen als CEO einer firma: preis eines produktes steigern
 -- mit leuten reden: marketing, finanzen, .... diese selbst lesen auch ihre "werte" vom "markt/nutzerbasis"
+-- preise gesteigert: stellt sich am ende des jahres als fehlentscheidung heraus: was macht man dann?
+-- marketing lag aber richtiger als finanzen: jetzt also marketing mehr vertrauen geben und finanzen weniger; marketing hat das aber auch nur weitergemeldet bekommen
+- (reaserch) back-propagation! <--- very important https://de.wikipedia.org/wiki/Backpropagation
+- sehr einfach algorithmus
 
+- Initialisation of NN - zufällige werte am Anfang
+-- dann in weiterer Iteration mit anderem Satz von Parametern machen
+-- Backprop (check)
+-- learning rate (check)
+
+stuff for my own homelearning / certificates:
+* https://www.nvidia.com/de-de/deep-learning-ai/education/
+* https://www.academy.fraunhofer.de/de/weiterbildung/information-kommunikation/data-scientist-schulungen.html
+* https://www.datascience-certificate.mathematik-informatik-statistik.uni-muenchen.de/information/index.html
+--> Anmeldefrist für das Wintersemester 2019/2020: 18. August 2019 ... 6500 euro ... what the fuck? lernt man da gold zu zaubern?!? 
+
+- backprop macht selber keine änderung im netz: zeigt nur die direktino von änderungen
+-- gradient descent
+-- recursive gradient descent
+-- or adams
+-- or msdrop (massdrop)
+
+- learning rate als regulation --> form von regularisation
+- begriff von "epochs" (nachschlagen)
+
+# beispiel: 100k datenpunkte; 100k bilder von katzen und hunden - netzwerk trainieren
+- aber: dafür bräuchte man sehr, sehr viel RAM
+- stattdessen: teilt man in 1000 gruppen von 100 bilder --> "mini-batch" https://en.wikipedia.org/wiki/Online_machine_learning#Batch_learning
+- https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/
+
+- https://machinelearningmastery.com/inspirational-applications-deep-learning/
+
+neues praxisbeispiel:
