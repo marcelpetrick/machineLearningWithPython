@@ -147,5 +147,22 @@ do: menue: Kernel >> Restart&clear output
 - mit CTRL+ENTER Zelle evaluieren
 - was ist numpy? Lineare Algebra
 
+- lol: https://stackoverflow.com/questions/13187778/convert-pandas-dataframe-to-numpy-array
 
+- krass: dataset.describe()
 
+- über kaggle und competitions wird am letzten abend gesprochen: like online gambling
+- he says: wie glücksspiel; macht extrem süchtig
+
+- sklearn: new player; very important
+-- is sci kit learn
+
+- PCA
+- K means
+- k-NN
+--> all three are: shallow (seicht) learning; viele davon in SciKitLearn enthalten
+- Deep Learning
+
+- LabelEncoder: transofrmiert Versicolor, Virginica to 0, 1, 2 ..
+
+- die ausgabe der letzten zeile wird in den zellen des jupyter-nb gezeigt
