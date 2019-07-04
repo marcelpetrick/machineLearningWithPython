@@ -316,3 +316,19 @@ bild mit 28x28 pixel
 - accuracy von 92% am ende ...
 
 - mit 30 epochs dann 96% genauigkeit
+
+- auto encoder: alle werte eingeben; output sind auch alle werte; in der mitte bottleneck mit nur 20 werten -> zum training eineinziges bild -> gleiches bild wird erwartet; was in der mitte passiert ist dimensionality reduction -> nur 20 werte werden gebraucht
+--> ergebnis wie PCA (informationsflaschenhals -> durch die enge bekommt man die essenz)
+read: https://de.wikipedia.org/wiki/Autoencoder
+
+# homework
+How to use validation data for Keras?
+( https://stackoverflow.com/questions/46308374/what-is-validation-data-used-for-in-a-keras-sequential-model )
+How to draw then the history data with Keras?
+
+--> read and do: learning curves
+https://stackoverflow.com/questions/37664783/how-to-plot-a-learning-curve-for-a-keras-experiment
+how to plot them?
+https://en.wikipedia.org/wiki/Autoencoder
+
+--> add this https://de.linkedin.com/in/pmohajerani
