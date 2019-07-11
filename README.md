@@ -430,3 +430,6 @@ for the theorethical foundations of ML
 # now: http://localhost:8888/notebooks/3rdSession/CatDog.ipynb
 ( maybe use this for understanding: https://github.com/girishkuniyal/Cat-Dog-CNN-Classifier )
 
+https://de.wikipedia.org/wiki/Fluch_der_Dimensionalit%C3%A4t
+
+( next: transfer learning )
