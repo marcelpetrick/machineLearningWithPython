@@ -422,3 +422,11 @@ http://localhost:8888/notebooks/3rdSession/Lenet5.ipynb
 good introduction for job preparation:
 https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc
 
+ensemble model
+
+chapters 2,3,4: http://www.deeplearningbook.org/
+for the theorethical foundations of ML
+
+# now: http://localhost:8888/notebooks/3rdSession/CatDog.ipynb
+( maybe use this for understanding: https://github.com/girishkuniyal/Cat-Dog-CNN-Classifier )
+
