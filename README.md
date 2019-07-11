@@ -332,3 +332,6 @@ how to plot them?
 https://en.wikipedia.org/wiki/Autoencoder
 
 --> add this https://de.linkedin.com/in/pmohajerani
+
+# ----------------------------------------------------------
+# tThird day of ML-course (20190711)
