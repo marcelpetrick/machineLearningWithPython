@@ -335,3 +335,12 @@ https://en.wikipedia.org/wiki/Autoencoder
 
 # ----------------------------------------------------------
 # tThird day of ML-course (20190711)
+
+- get those two archives and unzip them (inside the cats-vs-dogs)
+- vorher: ursprünglich parameter und Hyperparameter
+- Zifferklassifikation hatte keine Features, nur rohe Daten: wie soll man da welche bestimmen?
+- eigentlich Arbeit ist eine Linie (Kurve) zwischen den Gruppen zu zeichnen
+- (Question to myself: how to separate three classes from each other? always reducible to 1vs1 problem?)
+--> Anpassung der Kurven: fit (via Python, notebooks) - aber die Frage welchen Algo (ist Hyperparameter) man wählt, ist dem Dev überlassen
+- es gibt kein Backprop für HyperParameter
+ 
