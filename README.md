@@ -380,8 +380,45 @@ google: AutoML - projekt (check this)
 - https://github.com/keras-team/keras/ - on top of other tensorflow, etc libs
 - basic explanation of the things offered by Keras: https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
 
-- 
+- from: https://machinelearningmastery.com/faq/
+-- "Do you have examples of the Restricted Boltzmann Machine (RBM)?
+I do not have examples of Restricted Boltzmann Machine (RBM) neural networks.
+This is a type of neural network that was popular in the 2000s and was one of the first methods to be referred to as “deep learning”.
+These methods are, in general, no longer competitive and their use is not recommended.
+In their place I would recommend using deep Multilayer Perceptrons (MLPs) with the rectified linear activation function."
+
+- what is regularization? wenn man eine 3 als Bild dm nezt gibt, dann noch einmal eine geshiftete 3 und dann wieder ... model wuerde sich daran anpassen (eine art von regularisation)
+- data augmentation: https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced
+- https://neuralocean.de/index.php/de/2018/03/28/data-augmentation-was-ist-das/
+- https://neuralocean.de/index.php/de/2018/04/22/programmieren-von-kis-fuer-4x4-tictactoe-part-4-eine-experten-ki/
+
+- model selection:
+
+- how to deploy the AI? https://machinelearningmastery.com/deploy-machine-learning-model-to-production/
+
+# convolutional neural networks
+- https://de.wikipedia.org/wiki/Convolutional_Neural_Network
+- Yann LeCun
+
+- Götter der ML: https://www.nzz.ch/digital/ehre-fuer-die-deep-learning-mafia-ld.1472761
+
+Lenet5: sehr gut für das MNIST problem mit 5 Layern
+https://medium.com/@pechyonkin/key-deep-learning-architectures-lenet-5-6fc3c59e6f4
+
+-> subsampling um aus einem bild mehr bilder zu machen ( also called maxpooling)
+"By modern standards, LeNet-5 is a very simple network. It only has 7 layers, among which there are 3 convolutional layers (C1, C3 and C5), 2 sub-sampling (pooling) layers (S2 and S4), and 1 fully connected layer (F6), that are followed by the output layer. Convolutional layers use 5 by 5 convolutions with stride 1. Sub-sampling layers are 2 by 2 average pooling layers. Tanh sigmoid activations are used throughout the network. There are several interesting architectural choices that were made in LeNet-5 that are not very common in the modern era of deep learning."
 
 
 
+LSTM model?
+https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/
+
+deep learning for coders:
+-----> https://course.fast.ai/
+
+run this notebook now:
+http://localhost:8888/notebooks/3rdSession/Lenet5.ipynb
+
+good introduction for job preparation:
+https://blog.usejournal.com/what-i-learned-from-interviewing-at-multiple-ai-companies-and-start-ups-a9620415e4cc
 
