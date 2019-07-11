@@ -372,6 +372,16 @@ google: AutoML - projekt (check this)
 
 - MNIST notebook: einfach mal einen weiteren layer einfuegen: sauschnell
 
+* for the visualisation: https://keras.io/visualization/ - also how to use the matplotlib
+* waurm ist 98% erkennung noch nicht gut genug?
+-- bei überweisungsträgererkennung wäre selbst 99,5% sauschlecht, weil einfach dann 1 von 200 falsch ist
+
+
+- https://github.com/keras-team/keras/ - on top of other tensorflow, etc libs
+- basic explanation of the things offered by Keras: https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
+
+- 
+
 
 
 
