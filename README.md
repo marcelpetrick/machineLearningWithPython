@@ -344,3 +344,32 @@ https://en.wikipedia.org/wiki/Autoencoder
 --> Anpassung der Kurven: fit (via Python, notebooks) - aber die Frage welchen Algo (ist Hyperparameter) man wählt, ist dem Dev überlassen
 - es gibt kein Backprop für HyperParameter
  
+- Thomas Bayes
+P (H|B) = P(B|H)*P(H)/P(B)
+https://de.wikipedia.org/wiki/Bayessches_Netz
+
+looks great t read: https://towardsdatascience.com/@artem.oppermann
+
+- Beispiel: zwei Bekannte mit gleichem Krebs; Daten vorhanden, recht viele Metadaten
+-- beide haben gleiches Medikament genommen: fuer einen wirkte es, fuer den anderen nicht: was jetzt?
+-- Daten: 4 Billionen FeatureWerte (Schätzung)
+-- wenn man jetzt eine Kurve zwischen diese 4 Mrd Daten findet, hätte man Krebs geheilt -> sehr kompliziertes Klassifikationsproblem
+
+- also: https://de.wikipedia.org/wiki/Markow-Kette
+- read: https://towardsdatascience.com/backpropagating-ais-future-377816fc07fa
+
+- read: https://towardsdatascience.com/5-useful-statistics-data-scientists-need-to-know-5b4ac29a7da9
+
+
+books:
+https://www.amazon.in/Life-3-0-Being-Artificial-Intelligence/dp/1101946598
+https://www.amazon.in/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111
+
+back to the mnist example:
+https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Running%20Code.html
+
+
+
+
+
+
