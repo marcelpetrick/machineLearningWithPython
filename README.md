@@ -368,7 +368,9 @@ https://www.amazon.in/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/01996
 back to the mnist example:
 https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Running%20Code.html
 
+google: AutoML - projekt (check this)
 
+- MNIST notebook: einfach mal einen weiteren layer einfuegen: sauschnell
 
 
 
