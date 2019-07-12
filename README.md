@@ -433,3 +433,18 @@ for the theorethical foundations of ML
 https://de.wikipedia.org/wiki/Fluch_der_Dimensionalit%C3%A4t
 
 ( next: transfer learning )
+
+-------------------
+# own notes:
+
+watch this: https://www.youtube.com/watch?v=cAICT4Al5Ow
+reading (especially the cat-vs-dg-example for the jupyter notebook)
+* https://towardsdatascience.com/cat-or-dog-image-classification-with-convolutional-neural-network-d421a9363c7a
+* https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8
+* deep learning with Python: https://www.manning.com/books/deep-learning-with-python
+* https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/
+
+* keras opencv and matplotlib and scikit had to be installed
+* Cuda from nvidia in version 9 missing, but installing 10 maybe better (let us try and see)
+* https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
+* what if there is an AMD GPU?!?
