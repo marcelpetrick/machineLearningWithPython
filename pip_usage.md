@@ -7,8 +7,11 @@ pip uninstall NAME
 pip install NAME
 - install more packages
 
+# update pip itself
 python -m pip install --upgrade pip
-pip install --upgrade --user numpy scipy pandas matplotlib sklearn jupyter tensorflow-gpu keras
+# install most of the needed libs
+pip install --upgrade --user numpy scipy pandas matplotlib sklearn jupyter tensorflow-gpu keras opencv-python
 
 TODO: what does the "user" flag do?
 TODO: how to upgrade all packages to the very latest version?
+TODO: tensorflow with some AMD Radeon GPU?!?
