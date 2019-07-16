@@ -12,11 +12,15 @@ Next, type CMD in the windows start, and right click on it and run as administra
 
 When the command line opens, update pip by:
 
+(note: add the python/scripts folder to the path)
 python -m pip install --upgrade pip
-
-Then: pip install --upgrade --user numpy scipy pandas matplotlib sklearn jupyter tensorflow-gpu keras
+pip install --upgrade --user numpy scipy pandas matplotlib sklearn jupyter tensorflow-gpu keras
 
 If your computer doesn't have an NVIDIA GPU, run tensorflow (instead of tensorflow-gpu).
+
+
+-------------
+ERROR: tensorboard 1.14.0 has requirement setuptools>=41.0.0, but you'll have setuptools 40.8.0 which is incompatible.
 
 
 #################################
