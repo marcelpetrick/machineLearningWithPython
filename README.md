@@ -489,14 +489,45 @@ Wie lernt man Traktor fahren, wenn man schon Auto fahren kann?
 
 - https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/
 
-read: https://www.learnopencv.com/understanding-alexnet/
+#booom: read: https://www.learnopencv.com/understanding-alexnet/
 read: https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
 
 important terms!
 # maxpooling !
 # back propagation !
-
+# generative adversairal networks
 
 # mobilenet - other network type (already decapitated for our example of transfer learning)
 
 - erster Ansatz immer: transfer learning
+https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
+
+Pouyan: "Idee sollte immer intuitiv verständlich sein."
+
+GANs: generator and one adversarial
+
+https://skymind.ai/wiki/generative-adversarial-network-gan
+
+https://www.analyticsindiamag.com/introduction-gans-generative-adversarial-networks/
+
+wtf? https://forum.quartertothree.com/t/using-ai-to-improve-graphics-for-older-games-ersgan/140364
+
+CNN löst probleme hauptsächlich mit Bildern (vision)
+was ist mit sprache? zeitlicher zusammenhang der worte. länge des zusammenhanges lässt sich nicht bestimmen
+
+https://www.tensorflow.org/beta/tutorials/images/transfer_learning
+
+RNN: https://de.wikipedia.org/wiki/Rekurrentes_neuronales_Netz
+LSTM: berühmtes RNN network
+
+https://de.wikipedia.org/wiki/Long_short-term_memory
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+wettbewerbe: preis ausgeschrieben; leute werden fuer 10k euro lösung machen; einmalzahlung ...
+
+codalab - https://competitions.codalab.org/
+kaggle
+
+-----
+before: machine platform crowd
+(mind) (product) (core)
