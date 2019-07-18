@@ -448,3 +448,31 @@ reading (especially the cat-vs-dg-example for the jupyter notebook)
 * Cuda from nvidia in version 9 missing, but installing 10 maybe better (let us try and see)
 * https://developer.nvidia.com/cuda-10.1-download-archive-base?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
 * what if there is an AMD GPU?!?
+
+-------------------
+# fourth day of the course
+
+- stamping function: warum braucht man schwellenwert?
+- nonlinear function: https://www.quora.com/Why-does-deep-learning-architectures-only-use-the-non-linear-activation-function-in-the-hidden-layers?source=post_page---------------------------
+
+- LeakyReLU, maxout, tanh, sigmoid, ELU, ReLU
+
+read this: https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1
+do this: https://medium.com/abraia/getting-started-with-image-recognition-and-convolutional-neural-networks-in-5-minutes-28c1dfdd401 - also with colab page
+do this: https://eu.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+
+multi-label image recognition? https://towardsdatascience.com/fast-ai-season-1-episode-3-a-case-of-multi-label-classification-a4a90672a889
+
+https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9 - also with hints how to make jupyter
+
+laut meiner graphk mit 500 Epochen:
+- anfangs overfitting
+- aber halluzination: model lernt dinge, die nicht richtig waren
+- model hat gelernt, dass meiste katzen heller waren als Hunde -> aber das ist falsch, das ist Overfitting, keine richtige Erkenntnis
+- underfitting (bias): wenn man immernoch nicht zwischen katzen und hudnen unterscheiden kann
+- wie kann das model aber so schlecht lernen?
+- falsch gelernt und dies dann verstärkt
+
+
+# ok, really important! #
+----> https://medium.com/abraia/first-steps-with-transfer-learning-for-custom-image-classification-with-keras-b941601fcad5
