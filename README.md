@@ -489,9 +489,14 @@ Wie lernt man Traktor fahren, wenn man schon Auto fahren kann?
 
 - https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/
 
-
+read: https://www.learnopencv.com/understanding-alexnet/
+read: https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
 
 important terms!
 # maxpooling !
 # back propagation !
 
+
+# mobilenet - other network type (already decapitated for our example of transfer learning)
+
+- erster Ansatz immer: transfer learning
