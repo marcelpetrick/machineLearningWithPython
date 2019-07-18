@@ -476,3 +476,7 @@ laut meiner graphk mit 500 Epochen:
 
 # ok, really important! #
 ----> https://medium.com/abraia/first-steps-with-transfer-learning-for-custom-image-classification-with-keras-b941601fcad5
+
+How to detect cats in real life pictures:
+https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/
+
