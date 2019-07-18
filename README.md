@@ -480,3 +480,18 @@ laut meiner graphk mit 500 Epochen:
 How to detect cats in real life pictures:
 https://www.pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/
 
+# new example: transfer learning
+
+Wie lernt man Traktor fahren, wenn man schon Auto fahren kann?
+- vergleichend lernen; vielversprechende idee
+- Berühmtes beispiel: AlexNet https://en.wikipedia.org/wiki/AlexNet
+- mit vielen Daten und richtigen Parametern schon sehr lange trainiert
+
+- https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/
+
+
+
+important terms!
+# maxpooling !
+# back propagation !
+
