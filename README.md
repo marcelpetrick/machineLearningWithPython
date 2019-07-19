@@ -531,3 +531,27 @@ kaggle
 -----
 before: machine platform crowd
 (mind) (product) (core)
+
+------------------------------------------------------------------------
+# own notes and reading hints
+
+## benchmarking - for buying/creating a build
+https://www.pugetsystems.com/labs/hpc/TensorFlow-Performance-with-1-4-GPUs----RTX-Titan-2080Ti-2080-2070-GTX-1660Ti-1070-1080Ti-and-Titan-V-1386/
+benchmark over different models: https://github.com/jcjohnson/cnn-benchmarks
+benchmark for inference: https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a
+cpu versus gpu: no chance https://medium.com/@andriylazorenko/tensorflow-performance-test-cpu-vs-gpu-79fcd39170c
+
+## kaggle
+created myself an account: https://www.kaggle.com/marcelpetrick
+
+
+## inception model (important)
+https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202
+https://www.google.com/search?client=firefox-b-d&q=inception+network
+
+https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
+https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
+
+
+
+
