@@ -552,6 +552,27 @@ https://www.google.com/search?client=firefox-b-d&q=inception+network
 https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
 https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
 
+## transfer learning
+https://medium.com/@14prakash/transfer-learning-using-keras-d804b2e04ef8
 
+## LSTM
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+## RNN
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
+## 1st hand experience
+https://towardsdatascience.com/12-things-i-learned-during-my-first-year-as-a-machine-learning-engineer-2991573a9195
+maybe do this? https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333
+
+## OO and development practice
+https://towardsdatascience.com/how-a-simple-mix-of-object-oriented-programming-can-sharpen-your-deep-learning-prototype-19893bd969bd
+
+## general Python
+
+### profiling
+https://toucantoco.com/en/tech-blog/tech/python-performance-optimization
+
+## kaggle
+grandmaster: https://www.kaggle.com/abhishek
+reading: http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
