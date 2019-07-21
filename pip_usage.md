@@ -15,3 +15,6 @@ pip install --upgrade --user numpy scipy pandas matplotlib sklearn jupyter tenso
 TODO: what does the "user" flag do?
 TODO: how to upgrade all packages to the very latest version?
 TODO: tensorflow with some AMD Radeon GPU?!?
+
+
+resnet, transfer learning, vgg16, building own machine, starting first (kaggle) competition, reading all my own notes and links, ..
